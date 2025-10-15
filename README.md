@@ -51,15 +51,23 @@
 
 ---
 
-### 📊 GitHub Stats & Activity
+### 🏆 GitHub Grade A Profile
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=DeepakGupta&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=DeepakGupta&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DeepakGupta&theme=tokyonight" alt="Deepak Gupta GitHub Contribution Graph"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DeepakGupta&theme=react-dark&bg_color=0D1117&color=00C0FF&line=00C0FF&point=FFFFFF" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DeepakGupta&theme=tokyonight" alt="Top Languages"/>
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DeepakGupta&theme=tokyonight" alt="Most Commit Language"/>
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DeepakGupta&theme=tokyonight" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DeepakGupta&theme=tokyonight&utcOffset=5.5" alt="Productive Time"/>
+  <img width="32%" src="https://streak-stats.demolab.com?user=DeepakGupta&theme=tokyonight" alt="GitHub Streak Stats"/>
+
+  <img width="32%" src="https://github-readme-stats.vercel.app/api?username=DeepakGupta&show_icons=true&theme=tokyonight" alt="GitHub Stats Card"/>
 </p>
 
 ---
@@ -86,3 +94,4 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00C0FF&height=80&section=footer"/>
 </p>
+
